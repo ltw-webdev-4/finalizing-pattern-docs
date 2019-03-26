@@ -13,8 +13,9 @@ deliverables: 'Pattern library'
 - Double check all variables within patterns exist so they can be used when inserting into pages.
 - Double check all variables & fields have been documented within the patterns.
 - Make any improvements necessary based on in-class usability testing of your documentation.
-- Update your `README.md` to provide a project description & context.
-- Add helpful links to your README, like the Netlify URL.
+- Add a `README.md` to provide a project description & context.
+- Add your project title & description, add some rationales about the brand.
+- Add helpful links to your README, like the Netlify URL or your UX link.
 - Add installation & quick start instructions to your `README.md`.
 - Add a copyright notice to the bottom of the README, separated by a rule.
 
