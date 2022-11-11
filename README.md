@@ -1,14 +1,14 @@
 ---
-summary: 'Finish all the rationales, all the fields, and refine all the documentation in preparation for handing the project off to another person.'
-time: '3 hours'
-deliverables: 'Pattern library'
+summary: "Finish all the rationales, all the fields, and refine all the documentation in preparation for handing the project off to another person."
+time: "3 hours"
+deliverables: "Pattern library"
 ---
 
 # Finalizing pattern documentation
 
 ## Overview
 
-- *Continue work on your `ecommerce-pattern-library`*
+- _Continue work on your `ecommerce-pattern-library`_
 - Finesse all the rationales for every pattern in your pattern library.
 - Double check all variables within patterns exist so they can be used when inserting into pages.
 - Double check all variables & fields have been documented within the patterns.
@@ -32,7 +32,7 @@ You can copy-and-paste these basic installation instructions into your own READM
 
 The pattern library is a Jekyll & Patternbot based application, so it requires Ruby to be installed.
 
-[*☛ Follow these instructions to get Ruby & Bundler installed*](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/install-more-developer-tools/)
+[_☛ Follow these instructions to get Ruby & Bundler installed_](https://learntheweb.courses/courses/web-dev-4/install-more-developer-tools/)
 
 1. Navigate to the correct folder in Terminal. Use GitHub Desktop’s `Repository > Open in Terminal` command.
 2. Type the following command `bundle install`
